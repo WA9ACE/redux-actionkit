@@ -1,6 +1,6 @@
 {
   "name": "redux-actionkit",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A simple redux side-effect library",
   "main": "index.js",
   "scripts": {
@@ -8,6 +8,10 @@
   },
   "author": "Caleb Albritton",
   "license": "BSD-3-Clause",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/WA9ACE/redux-actionkit.git"
+  },
   "dependencies": {
     "ramda": "^0.24.1"
   }
