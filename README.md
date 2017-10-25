@@ -1,3 +1,6 @@
+# Redux ActionKit
+Simple and small alternative to redux saga and redux thunk.
+
 ```js
 import { middleware as ActionKitMiddleware } from 'redux-actionkit'
 import actions from 'actions' // or wherever your listeners are stored
